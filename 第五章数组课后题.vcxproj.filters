@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="源文件\资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1用筛选法（后除挖数）求100以内素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2用选择法对十个整数进行排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3求一个3乘3矩阵对角线元素之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4对有序数组插数不改变顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5将一个数组的值按逆序重新存放.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6打印出杨辉三角（十行）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7找出一个二维数组的鞍点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8折半法确定某数在有序数组之中的位置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9统计三行文本里各种字符的数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10用两种方法输出规律星号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11字母首尾调换密码破译.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12将两个字符串连接起来取代第一个字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13用起泡法将n个字符串按字母大小排序输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14将字符串按逆序输出（对称元素互换）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15输入姓名成绩将不及格的输出.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
